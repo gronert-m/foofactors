@@ -23,7 +23,7 @@ Factors are a very useful type of variable in R, but they can also be very aggra
 ## Installation
 
 ```{r installation, eval = FALSE}
-devtools::install_github("gronert-m/foofactors")
+devtools::install_github("gronert-m/foofactors_2")
 ```
 
 ### Quick demo

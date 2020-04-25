@@ -16,7 +16,7 @@ Installation
 ------------
 
 ``` r
-devtools::install_github("gronert-m/foofactors")
+devtools::install_github("gronert-m/foofactors_2")
 ```
 
 ### Quick demo
